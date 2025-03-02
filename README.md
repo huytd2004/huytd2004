@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🇻🇳 : I'm from VietNam
 - 🌱 : I’m currently learning Spring Boot, AWS
--✍️ : There is [my blog and articles](https://viblo.asia/u/tdhuy9a)
+- ✍️ : There is [my blog and articles](https://viblo.asia/u/tdhuy9a)
 - 📧 : Contact me at huy6abt@gmail.com
 
 
